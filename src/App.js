@@ -1,23 +1,28 @@
-import logo from './logo192.png';
-import './App.css';
+import React, { useState } from 'react';
+import Nav from './components/Nav';
+import Contact from './components/Contact';
+import About from './components/About';
+import Projects from './components/Projects';
+import Footer from './components/Footer';
+import Resume from './components/Resume';
 
 function App() {
+const [page, setPage] = useState(<About/>)
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Nav
+      setPage={setPage}
+      Contact={Contact}
+      About={About}
+      Projects={Projects}
+      Resume={Resume}
+      />
+      {page}
+      <Footer
+      setPage = {setPage}
+      Contact={Contact}
+      About={About}
+      />
     </div>
   );
 }
