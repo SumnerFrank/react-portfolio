@@ -29,3 +29,5 @@ WHEN I am presented with the Resume section
 THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
+
+<img width="1166" alt="Screenshot 2023-04-08 at 6 00 21 PM" src="https://user-images.githubusercontent.com/115412068/230744344-949ca971-eedc-48ac-9778-c5b7fca5717e.png">
