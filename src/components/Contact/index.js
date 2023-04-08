@@ -1,8 +1,8 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 function Contact() {
     return (
-        <h1>hello Contact</h1>
+        <h1 id='contact'>hello Contact</h1>
     )
 }
 

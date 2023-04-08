@@ -27,4 +27,16 @@ const [page, setPage] = useState(<About/>)
   );
 }
 
+// function App() {
+//   return(
+//     <div>
+//       <Nav />
+//       <About />
+//       <Projects />
+//       <Resume />
+//       <Footer />
+//     </div>
+//   )
+// }
+
 export default App;

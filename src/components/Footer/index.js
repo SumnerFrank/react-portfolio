@@ -9,7 +9,7 @@ function Footer({setPage, Contact, About}) {
                 <a href="#contact" onClick={() => setPage(<Contact/>)}>Contact</a>
             </li>
             <li class="mr-4 hover:font-bold md:mr-6">
-                <a href="#about" onClick={() => setPage(<About/>)} >Home</a>
+                <a href="#about" onClick={() => setPage(<About/>)}>Home</a>
             </li>
         </ul>
         </footer>
