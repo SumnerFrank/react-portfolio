@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/react-portfolio/static/js/main.f5b5da9c.js",
-    "static/js/787.05ce3f6d.chunk.js": "/react-portfolio/static/js/787.05ce3f6d.chunk.js",
-    "static/media/logo.svg": "/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-portfolio/static/css/main.9bf14016.css",
+    "main.js": "/react-portfolio/static/js/main.a05df7db.js",
+    "static/media/to-do-list.webp": "/react-portfolio/static/media/to-do-list.c3c6a920b338735a0582.webp",
+    "static/media/powerlifting.jpg": "/react-portfolio/static/media/powerlifting.aa7d25f424e8d7d5be88.jpg",
+    "static/media/IMG_2378.jpg": "/react-portfolio/static/media/IMG_2378.ce286946e7dc21083825.jpg",
+    "static/media/weather.icon.jpeg": "/react-portfolio/static/media/weather.icon.4d0e6aa8e12cf723d55f.jpeg",
+    "static/media/resume.pdf": "/react-portfolio/static/media/resume.d7b45a3cb165ab70a6ca.pdf",
+    "static/media/resumeIcon.png": "/react-portfolio/static/media/resumeIcon.914c9e6aee4e5984f798.png",
+    "static/media/coding.jpeg": "/react-portfolio/static/media/coding.e38395b273d3319cb3a1.jpeg",
     "index.html": "/react-portfolio/index.html",
-    "main.073c9b0a.css.map": "/react-portfolio/static/css/main.073c9b0a.css.map",
-    "main.f5b5da9c.js.map": "/react-portfolio/static/js/main.f5b5da9c.js.map",
-    "787.05ce3f6d.chunk.js.map": "/react-portfolio/static/js/787.05ce3f6d.chunk.js.map"
+    "main.9bf14016.css.map": "/react-portfolio/static/css/main.9bf14016.css.map",
+    "main.a05df7db.js.map": "/react-portfolio/static/js/main.a05df7db.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f5b5da9c.js"
+    "static/css/main.9bf14016.css",
+    "static/js/main.a05df7db.js"
   ]
 }
