@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.9bf14016.css",
-    "main.js": "/react-portfolio/static/js/main.a05df7db.js",
+    "main.js": "/react-portfolio/static/js/main.6e96ca8f.js",
     "static/media/to-do-list.webp": "/react-portfolio/static/media/to-do-list.c3c6a920b338735a0582.webp",
     "static/media/powerlifting.jpg": "/react-portfolio/static/media/powerlifting.aa7d25f424e8d7d5be88.jpg",
     "static/media/IMG_2378.jpg": "/react-portfolio/static/media/IMG_2378.ce286946e7dc21083825.jpg",
@@ -11,10 +11,10 @@
     "static/media/coding.jpeg": "/react-portfolio/static/media/coding.e38395b273d3319cb3a1.jpeg",
     "index.html": "/react-portfolio/index.html",
     "main.9bf14016.css.map": "/react-portfolio/static/css/main.9bf14016.css.map",
-    "main.a05df7db.js.map": "/react-portfolio/static/js/main.a05df7db.js.map"
+    "main.6e96ca8f.js.map": "/react-portfolio/static/js/main.6e96ca8f.js.map"
   },
   "entrypoints": [
     "static/css/main.9bf14016.css",
-    "static/js/main.a05df7db.js"
+    "static/js/main.6e96ca8f.js"
   ]
 }
