@@ -9,7 +9,7 @@ function About() {
      <h1 class="text-lg text-gray-700"> Frank Sumner </h1>
      <h3 class="text-sm text-gray-400 "> Full Stack Web Developer </h3>
      <p class="text-xs text-gray-400 mt-4">
-     Hello and welcome to my portfolio! My name is Frank Sumner and I recently completed the Full Stack Web Development Bootcamp through the University of Central Florida. During my coding bootcamp, I learned various programming languages including JavaScript, HTML, and CSS. I also gained experience with various front-end frameworks such as React and Bootstrap. Additionally, I have experience with back-end frameworks such as Node.js and Express. I am proficient in Git and I have experience with database management using MongoDB. Furthermore, I am familiar with agile methodologies and test-driven development practices. 
+     Full-stack web developer with experience in creating functional and useful web applications. Experience in large scale data migration projects, solo and collaborative campaigns, and customer-facing conflict resolution. Creative problem solving in independent and collaborative settings. Seeking a role as a front end web developer.
      </p>
    </div>
  </div>
