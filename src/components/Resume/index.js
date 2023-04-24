@@ -1,6 +1,6 @@
 import React from 'react';
 import resumeIcon from '../../assets/resumeIcon.png';
-import resume from '../../assets/resume.pdf';
+import resume from '../../assets/Frank_Sumner_Front_End_Developer.pdf';
 
 function Resume() {
     return (
