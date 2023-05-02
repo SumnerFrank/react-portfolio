@@ -11,7 +11,7 @@ function Projects() {
     <div id="fitfolio" class="flex items-center justify-center h-screen bg-gradient-to-br from-indigo-500 to-indigo-800">
         <ul class="flex flex-wrap">
             <li>
-                <a href="https://fitfolio.herokuapp.com/" target="_blank">
+                <a href="https://github.com/SumnerFrank/fitfolio-v2" target="_blank">
                     <div class="bg-white font-semibold text-center rounded-3xl border shadow-lg p-10 max-w-xs">
                         <img class="mb-3 w-32 h-32 shadow-lg mx-auto" src={fitfolioIcon} alt="photo of deadlift" />
                         <h1 class="text-lg text-gray-700"> FitFolio </h1>
