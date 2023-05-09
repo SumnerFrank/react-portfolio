@@ -27,8 +27,6 @@ const [page, setPage] = useState(<About/>)
   );
 }
 
-// this version would have all components on one main page
-// while this would be cool, it is not what the assignment is asking for 
 // function App() {
 //   return(
 //     <div>

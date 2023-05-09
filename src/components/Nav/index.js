@@ -2,7 +2,7 @@ import React from 'react';
 
 function Nav({setPage, Contact, About, Resume, Projects}) {
     return (
-        <header class="sticky top-0 w-full px-2 py-4 bg-green sm:px-4 shadow-xl">
+        <header class="sticky top-0 w-full px-2 py-4 bg-gradient-to-br from-indigo-500 to-indigo-800 sm:px-4 shadow-xl">
         <div class="flex items-center grid justify-items-end mx-auto max-w-7xl">
             <div class="flex items-center space-x-1">
             <ul class="space-x-2 md:inline-flex">
